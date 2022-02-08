@@ -45,7 +45,7 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
