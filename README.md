@@ -45,9 +45,9 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 
 <!--START_SECTION:waka-->
 ```text
-Python       3 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.00 % 
-JavaScript   3 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.12 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript   5 hrs 2 mins    █████████████▓░░░░░░░░░░░   54.70 % 
+Python       4 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.31 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
 
