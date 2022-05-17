@@ -16,6 +16,7 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
+![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=flat-square&logo=manjaro)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
@@ -25,20 +26,19 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 ![Java](https://img.shields.io/badge/-Java-%23E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logoColor=ffffff&logo=docker)
 
 🌱 Possible future directions...
 
-![Node.js](https://img.shields.io/badge/-Nodejs-%23339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Nodejs-%23339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 ## 📈 Stats
