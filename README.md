@@ -46,12 +46,12 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js           7 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   45.36 %
-JavaScript       6 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
-Python           1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Markdown         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-TypeScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Vue.js           7 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   46.42 %
+JavaScript       6 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.61 %
+Python           1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Markdown         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
