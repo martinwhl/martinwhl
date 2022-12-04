@@ -46,7 +46,7 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 <!--START_SECTION:waka-->
 
 ```text
-Docker   17 mins         █████████████████████████   100.00 %
+Docker   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
