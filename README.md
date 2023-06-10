@@ -47,12 +47,10 @@ I am `martinwhl`, a newbie developer taking baby steps.
 
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   2 hrs 16 mins   ███████████████▓░░░░░░░░░   62.44 %
-JSON         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Other        17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+```txt
+Other    9 mins          ███████████████▓░░░░░░░░░   62.52 %
+Python   5 mins          █████████░░░░░░░░░░░░░░░░   36.02 %
+CSV      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
