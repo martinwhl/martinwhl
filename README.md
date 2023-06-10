@@ -1,10 +1,11 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Central South University](https://www.csu.edu.cn/).
+I am `martinwhl`, a newbie developer taking baby steps.
 
 * 💬 Ask me about anything, I am happy to help when I have free time;
-* 📫 Feel free to connect with me here:
-[![Gmail Badge](https://img.shields.io/badge/asteroid00001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asteroid00001@gmail.com)](mailto:asteroid00001@gmail.com)
+* ❓ Feel free to submit an issue if you find any 🐛 in my repositories.
+<!-- * 📫 Feel free to connect with me here:
+[![Gmail Badge](https://img.shields.io/badge/[MAIL-ADDRESS]-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[MAIL-ADDRESS])](mailto:[MAIL-ADDRESS]) -->
 
 ## 🛠 Technologies & Tools
 
@@ -39,8 +40,8 @@ I am `martinwhl`, currently pursuing my master's degree majoring in GIS from [Ce
 ![Node.js](https://img.shields.io/badge/-Nodejs-%23339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Electron](https://img.shields.io/badge/-Electron-%232a2d38?style=flat-square&logo=electron&logoColor=9feaf9)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+<!-- ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus) -->
 
 ## 📈 Stats
 
