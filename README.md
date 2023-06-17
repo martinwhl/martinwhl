@@ -48,8 +48,7 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-Other      9 mins          ████████████████▓░░░░░░░░   66.28 %
-Markdown   4 mins          ████████▒░░░░░░░░░░░░░░░░   33.72 %
+Markdown   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
