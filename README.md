@@ -48,7 +48,11 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           19 mins         ██████████████▓░░░░░░░░░░   59.05 %
+Other            9 mins          ███████░░░░░░░░░░░░░░░░░░   28.60 %
+GitIgnore file   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+PowerShell       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
