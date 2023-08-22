@@ -48,7 +48,9 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ezhil        0 secs          ██████████░░░░░░░░░░░░░░░   40.01 %
+JavaScript   0 secs          █████████░░░░░░░░░░░░░░░░   36.59 %
+JSON         0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.40 %
 ```
 
 <!--END_SECTION:waka-->
