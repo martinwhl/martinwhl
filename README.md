@@ -48,11 +48,11 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       24 mins         ███████████████▒░░░░░░░░░   60.79 %
-JavaScript   14 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 %
-Ezhil        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Vue.js       24 mins         ███████████████░░░░░░░░░░   60.19 %
+JavaScript   14 mins         ████████▓░░░░░░░░░░░░░░░░   34.60 %
+Ezhil        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
