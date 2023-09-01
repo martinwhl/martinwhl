@@ -48,9 +48,8 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 5 mins    █████████████████████▒░░░   85.82 %
-HTML       30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python   3 hrs 5 mins    █████████████████████▒░░░   85.98 %
+HTML     30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
 ```
 
 <!--END_SECTION:waka-->
