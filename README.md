@@ -48,7 +48,8 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 min           ██████████████████████▒░░   89.91 %
+JSON     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
