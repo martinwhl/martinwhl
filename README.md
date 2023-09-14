@@ -48,10 +48,10 @@ I am `martinwhl`, a newbie developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-Python        13 hrs 2 mins   ████████████████████████▓   98.09 %
+Python        13 hrs          ████████████████████████▓   98.11 %
 HTML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-JSON          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Objective-C   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
