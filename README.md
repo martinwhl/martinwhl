@@ -22,6 +22,7 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logoColor=ffffff&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326DE6?style=flat-square&logoColor=ffffff&logo=kubernetes)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=flat-square&logo=manjaro)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
