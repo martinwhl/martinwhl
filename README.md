@@ -52,11 +52,11 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 51 mins    ████████▓░░░░░░░░░░░░░░░░   35.23 %
-JavaScript   1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-JSON         1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Vue.js       1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+HTML         1 hr 41 mins    ████████▒░░░░░░░░░░░░░░░░   33.41 %
+JavaScript   1 hr 34 mins    ███████▓░░░░░░░░░░░░░░░░░   31.27 %
+Vue.js       1 hr 16 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
+JSON         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
