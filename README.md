@@ -52,10 +52,11 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 21 mins    █████████████████████████   99.75 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java              2 hrs 42 mins   ██████████████████████▓░░   90.29 %
+XML               14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
