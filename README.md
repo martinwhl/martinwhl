@@ -52,11 +52,11 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            5 hrs 39 mins   █████████████████░░░░░░░░   68.06 %
-XML               1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Python            24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Markdown          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Gradle            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Kotlin            6 hrs 8 mins    ████████████████▒░░░░░░░░   65.65 %
+XML               1 hr 44 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+Python            24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Groovy            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
