@@ -52,11 +52,11 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-C++               1 hr 8 mins     █████████████████████▒░░░   85.76 %
-Java              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Gradle            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Groovy            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+C++          30 mins         ██████████████████████░░░   87.65 %
+Java         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+ObjectiveC   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+AIDL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
