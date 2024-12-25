@@ -52,11 +52,11 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                    2 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   41.70 %
-CMake                  1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.86 %
-ObjectiveC             37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Vue.js                 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Java                   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+C++          29 mins         █████████████▓░░░░░░░░░░░   54.12 %
+Vue.js       11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+ObjectiveC   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
