@@ -52,9 +52,9 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-C++      57 mins         █████████████░░░░░░░░░░░░   52.35 %
-Python   51 mins         ████████████░░░░░░░░░░░░░   47.50 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+C++      31 mins         ███████████████████▓░░░░░   78.36 %
+Python   8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
