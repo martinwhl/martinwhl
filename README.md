@@ -52,11 +52,11 @@ I am `martinwhl`, a newbie fullstack developer taking baby steps.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         27 mins         ███████████░░░░░░░░░░░░░░   44.46 %
-Other        22 mins         █████████░░░░░░░░░░░░░░░░   35.57 %
-Python       9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML       30 mins         █████████████▒░░░░░░░░░░░   52.87 %
+Other      22 mins         █████████▓░░░░░░░░░░░░░░░   39.16 %
+Python     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
